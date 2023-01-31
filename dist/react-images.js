@@ -167,12 +167,7 @@
   // ==============================
 
   function isTouch() {
-    try {
-      document.createEvent('TouchEvent');
-      return true;
-    } catch (e) {
-      return false;
-    }
+    return false;
   }
 
   var containerCSS = function containerCSS(_ref) {

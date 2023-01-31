@@ -1,4 +1,4 @@
-# React Imagess
+# React Images
 
 ### ⚠️ Warning!
 
