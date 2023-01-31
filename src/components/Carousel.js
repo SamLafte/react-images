@@ -79,7 +79,7 @@ export type CarouselState = {
 const defaultProps = {
   currentIndex: 0,
   formatters,
-  hideControlsWhenIdle: 3000,
+  hideControlsWhenIdle: 3000000,
   showNavigationOnTouchDevice: false,
   styles: {},
   trackProps: {
